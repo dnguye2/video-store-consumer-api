@@ -62,3 +62,6 @@ group :test do
   gem 'minitest-rails'
   gem 'minitest-reporters'
 end
+
+# For connecting to React front end
+gem 'rack-cors'
